@@ -29,8 +29,11 @@ body{
     .qr-code{
         margin: 10rem ;
     }
+    .titulo-nombre{
+        padding-top: 3rem;
+    }
     .titulo-portfolio{
-        padding-top:20rem;
+        padding-top:17rem;
         text-align: center;
     }
     .titulo-proyectos{

@@ -23,6 +23,34 @@ body{
         position: relative;
         width: 100%;
     }
+    .quote{
+        display: none;
+    }
+    .qr-code{
+        margin: 10rem ;
+    }
+    .titulo-portfolio{
+        padding-top:20rem;
+        text-align: center;
+    }
+    .titulo-proyectos{
+        text-align: center;
+    }
+    .titulo-skills{
+        text-align: center;
+    }
+    .titulo-contacto{
+        text-align: center;
+    }
+    .contact-desktop{
+        display: none;
+    }
+}
+
+@media (min-width: 768px){
+    .contact-mobile{
+        display: none;
+    }
 }
 
 .avatar{
